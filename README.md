@@ -1,17 +1,3 @@
-# Standard_Template
-![image](https://github.com/TomoyaOka/standard_template_three.js/assets/73698770/398ceae7-62b9-4e2f-9343-194032a12f9a)
+# Mesh - Pierced and Noise
 
-<br/>
-
-- Helper
-- Grid
-- OrbitControls
-- Stats
-
-<br/>
-<br/>
-<br/>
-
-
-# Preview
-https://tomoyaoka.github.io/standard_template_three.js/
+![image](https://github.com/TomoyaOka/webgl-demo-pnoise/assets/73698770/6293446b-a56a-42fd-b3ec-17147b595f5d)
